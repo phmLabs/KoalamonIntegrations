@@ -1,0 +1,9 @@
+{
+  "name": "koalamon/koalamonintegration",
+  "description": "The koalamon integrations",
+  "autoload": {
+    "psr-4": {
+      "KoalamonIntegrations\\": "src/"
+    }
+  }
+}
